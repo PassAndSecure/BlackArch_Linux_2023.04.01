@@ -1,0 +1,7 @@
+SHA-256:
+b797c88dca61eb695be7eb41f96ce3502bf806cf574e68cdfb58e9ceb099a0b5
+
+Vérifier l'intégrité de l'ISO :
+Sous Linux : sha256sum blackarch-linux-netinst-2023.04.01-x86_64.iso
+Sous Windows : CertUtil -hashfile .\blackarch-linux-netinst-2023.04.01-x86_64.iso SHA256
+

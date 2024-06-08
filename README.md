@@ -3,6 +3,8 @@
 ## À propos
 Ce dépôt contient l'ISO pour Kaisen Linux Rolling3.0RC1 AMD64 Netinst. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
+
 ## Téléchargement
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`blackarch-linux-netinst-2023.04.01-x86_64.iso`](https://github.com/PassAndSecure/BlackArch_Linux_2023.04.01/releases/download/blackarch-linux-netinst-2023.04.01-x86_64/blackarch-linux-netinst-2023.04.01-x86_64.iso) pour le télécharger.
 
